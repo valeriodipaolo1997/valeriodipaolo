@@ -1,0 +1,104 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{ 
+   background: url(../img/background.jpg);
+   background-size: 100%;
+   padding: 50px;
+}
+
+.logo{
+   max-width: 250px;
+}
+
+.center{
+   text-align: center;
+}
+
+
+
+.pagina{
+   color: green;
+   text-align: center;
+   margin: 0;
+}
+
+
+
+.contenitore{
+   width: 1000px;
+   margin: auto;
+   background-color: rgba(0, 0, 0, 0.5);
+   padding: 20px;
+   border-radius: 10px 10px 10px 10px;
+}
+
+
+.right{
+   margin: 0px 60px;
+   padding: 10px;
+}
+
+.barra0{
+   text-align: center;
+   background-color: green;
+   width: 800px;
+   
+}
+
+  
+
+.barra{
+    background-color: orange;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 5px;
+}
+
+
+.barra2{
+   background-color: green;
+   width: 550px;
+   height: 40px;
+   border-radius: 10px 10px 10px 10px;
+   margin-top: 5px;
+}
+
+
+.barra3{
+   background-color: red;
+   width: 140px;
+   height: 40px;
+   border-radius: 10px 10px 10px 10px;
+   margin-top: 5px;
+}
+
+.main{
+   color: white;
+   font-size: 15px
+}
+
+.check{
+   height: 5px;
+   width: 5px;
+   background-color: white;
+}
+
+.title-monopattino{
+   display: inline-block;
+}
+
+.button{
+   border-radius: 5px;
+   padding: 5px 10px;
+}
+
+.contenitore-prodotti{
+   padding: 15px 0;
+}
+
+h2{
+   display: inline;
+}
